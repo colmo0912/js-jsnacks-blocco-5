@@ -85,7 +85,7 @@ for (var i=0; i<varietaZucchine.length; i++){
         pesoTotaleZucchine+=pesoSingolaZucchina;
     
 }
-    console.log(pesoTotaleZucchine)
+    console.log("Il peso totale delle zucchine in kg è " + pesoTotaleZucchine)
 
 
 
